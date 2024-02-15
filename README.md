@@ -50,6 +50,8 @@ But we need to go further; we are just at the beginning.
 
 **What will be done:**
 
+![image](https://github.com/Thiago-Mota-Santos/Hodlis/assets/75326612/4a7f569e-beae-4f62-8945-c4e4a75108cf)
+
 At this moment, I ask for help from anyone reading this. What is the best way to achieve this?
 
 Submit your suggestions in the **Issues** tab.
